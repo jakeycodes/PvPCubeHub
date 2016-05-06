@@ -1,0 +1,7 @@
+--- 
+authors: 
+  - jakeycodes
+description: "The hub plugin"
+main: info.pvpcube.hub.Hub
+name: PvpCubeHub
+version: "0.0.1"
